@@ -1,5 +1,7 @@
 # 참체험 🌊 — 시흥시 어린이 체험 프로그램 가이드
 
+🔗 **[https://utggo00-del.github.io/good-exp2/](https://utggo00-del.github.io/good-exp2/)**
+
 시흥시 아이와 함께 갈 수 있는 **체험 프로그램 107개+** 를 한눈에 찾아보는 싱글페이지 앱(SPA)입니다.
 
 ## 주요 기능
@@ -30,11 +32,11 @@
 
 ## 로컬 실행
 
-별도 빌드 없이 `index8.html` 파일을 브라우저에서 바로 열면 됩니다.
+별도 빌드 없이 `index.html` 파일을 브라우저에서 바로 열면 됩니다.
 
 ```bash
 # 예시: VS Code Live Server 또는 단순 파일 열기
-open index8.html
+open index.html
 ```
 
 ## 데이터 출처
